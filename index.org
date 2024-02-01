@@ -1,0 +1,45 @@
+#+STARTUP: overview
+
+#+bibliography: ~/Printshop/refs.bib
+#+cite_export: csl ~/Zotero/styles/ieee.csl
+# #init #+LaTeX_HEADER: \usepackage[x11names]{xcolor}
+#+LaTeX_HEADER: \hypersetup{linktoc = all, colorlinks = true, urlcolor = DodgerBlue4, citecolor = blue, linkcolor = black}
+#+LATEX_HEADER: \usepackage[a4paper,text={6.25in,9in}, truedimen]{geometry}
+#+OPTIONS: author:nil date:nil toc:nil
+
+# #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="pico.css" />
+# #+HTML_HEAD_EXTRA: <link rel="alternate stylesheet" type="text/css" href="pico.css" />
+
+# #+OPTIONS: html-style:nil
+
+#+title: One without a second
+
+This document is intended to help me understand the concept of /there is one without a second and you are that/. By writing and organising my thoughts here I hope to reach  a greater understanding of a belief that I feel inexplicably drawn towards. 
+
+This document is open-ended and on-going. I don't imagine it will ever be complete and it will build only gradually. The literature in this area is too great for me to possibly cover and consequently I can only include that which has a resonance with myself. Hopefully this work forms an aid in helping me live this life an understand this life as well as I am able. If someone stumbles across it online then I can only hope they find it useful.
+
+[[index.pdf][PDF version]]   
+
+#+TOC: headlines N 
+
+* Introduction
+* God
+* Death
+* Birth
+* Ramana Maharshi
+* Investigation
+* Practical living
+* The principle of non harm (/Ahimsa/)
+* Useful links
+* Glossary
+* References
+#+print_bibliography:
+* Technical notes
+
+- This document has been created using [[https://www.gnu.org/software/emacs/][Emacs]] and [[https://orgmode.org/manual/index.html#SEC_Contents][Orgmode]]. This has a number of advantages. As well as Orgmode being an advanced editor in its own right, it also has the ability to easily export files in a number of formats.
+- This document is loaded as one file and those reading it in a browser can simple use their find in page function to search for information they might require. 
+- This document is hosted on [[https://pages.github.com][GitHub Pages]].
+
+ 
+---
+
