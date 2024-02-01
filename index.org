@@ -18,8 +18,6 @@ This document is intended to help me understand the concept of /there is one wit
 
 This document is open-ended and on-going. I don't imagine it will ever be complete and it will build only gradually. The literature in this area is too great for me to possibly cover and consequently I can only include that which has a resonance with myself. Hopefully this work forms an aid in helping me live this life an understand this life as well as I am able. If someone stumbles across it online then I can only hope they find it useful.
 
-[[index.pdf][PDF version]]   
-
 #+TOC: headlines N 
 
 * Introduction
